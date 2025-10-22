@@ -6,6 +6,8 @@ dist/
 wheels/
 *.egg-info
 
+./go2_data/
+
 # Virtual Environments 
 .venv
 
